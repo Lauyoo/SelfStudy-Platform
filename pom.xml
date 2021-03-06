@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>com.lau.selfStudy</groupId>
+    <artifactId>SelfStudy-Platform</artifactId>
+    <version>1.0-SNAPSHOT</version>
+    <name>selfStudy</name>
+    <description>自学平台</description>
+    <packaging>pom</packaging>
+
+    <modules>
+        <module>selfstudy-channel</module>
+        <module>selfstudy-member</module>
+        <module>selfstudy-question</module>
+        <module>selfstudy-study</module>
+        <module>selfstufy-content</module>
+    </modules>
+    
+</project>
