@@ -17,6 +17,9 @@
         <module>selfstudy-question</module>
         <module>selfstudy-study</module>
         <module>selfstufy-content</module>
+        <module>renren-fast</module>
+        <module>renren-generator</module>
+        <module>selfstudy-common</module>
     </modules>
     
 </project>
